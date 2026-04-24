@@ -10,8 +10,8 @@ Subconjunto del Google Landmarks Dataset v2 con 50 clases.
 ## Resultados
 | Modelo | Test Accuracy |
 |--------|--------------|
-| CNN desde cero | ~XX% |
-| ResNet18 Transfer Learning | ~XX% |
+| CNN desde cero | 43.12% |
+| ResNet18 Transfer Learning | 71.36% |
 
 ## Estructura
 landmark-classifier/
