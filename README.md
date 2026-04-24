@@ -30,4 +30,7 @@ landmark-classifier/
 - Python 3.10
 - PyTorch
 - torchvision
+  
+## Video de presentación
+[Ver video en YouTube](https://youtu.be/F7zKuALfTy8)
 - Google Colab GPU T4
